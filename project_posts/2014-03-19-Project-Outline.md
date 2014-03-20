@@ -14,7 +14,7 @@ As the sound fills the room, it is transformed into projected visualizations.
 There will be two reflective projections, representing the two hemishperes of the brain, similarly our two ears, the stereo sound that we hear.  As the sounds vibrate and merge, the visual projections settle and merge as well.
 
 
-The String Theory Project focuses on strings because of the uniqueness of the sound vibrations through the air.  The harp is used because of it's history as a healing instrument.
+The String Theory Project focuses on strings because of the uniqueness of the sound vibrations through the air.  The harp is used because of it's history as a healing instrument, as well as the physical intimacy in playing the strings.
 
 
 For the opening, I would like to invite a professional harpist to play a few simple pieces of music.

@@ -1,7 +1,9 @@
 {
     "technologies": {
         "apis": [
-            "insert apis"
+            "insert apis",
+                "WebGL",
+                "Web Audio"
         ],
         "platforms": [
             "insert platforms"
