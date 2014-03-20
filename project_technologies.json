@@ -4,12 +4,19 @@
             "insert apis",
                 "WebGL",
                 "Web Audio"
+
         ],
         "platforms": [
             "insert platforms"
         ],
         "toolkits": [
-            "insert toolkits"
+            "insert toolkits",
+            "three.js"
+        ],
+        "languages": [
+            "insert languages" ,
+                "html",
+                "javascript"
         ]
     },
     "themes": [
