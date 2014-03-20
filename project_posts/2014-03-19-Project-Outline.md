@@ -11,7 +11,7 @@ As the sound fills the room, it is transformed into projected visualizations.
 ![sketch](/project_images/string_theory_sketch1.jpg?raw=true "Project Sketch")
 
 
-There will be two projections, representing the two hemishperes of the brain, similarly our two ears, the stero sound that we hear.  As the sounds vibrate and merge, the visual projections settle and merge as well.
+There will be two reflective projections, representing the two hemishperes of the brain, similarly our two ears, the stereo sound that we hear.  As the sounds vibrate and merge, the visual projections settle and merge as well.
 
 
-The String Theory Project focuses on strings because of the uniquenes of the sound vibrations through the air.  The harp is used because of it's history as a healing instrument.  
+The String Theory Project focuses on strings because of the uniqueness of the sound vibrations through the air.  The harp is used because of it's history as a healing instrument.  For the opening, I would like to invite a professional harpist to play a few simple pieces of music.
