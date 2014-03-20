@@ -1,12 +1,16 @@
-# Project Title
-Insert the name of your project
+# String Theory Project
+Using technology to explore the hidden powers beneath the strings.
+
 
 ## Authors
-- Insert main author name, surname, github account
-- Insert other author(s) name, surname, github account (one per list element)
+- Tara Manuel, https://github.com/bytara
 
 ## Description
-Insert a description containing about 100 to 150 words, including your motivation and the meaning behind your idea and execution. The Judges will be keen to know how your idea pushes the boundaries of code and technology. 
+The String Theory Project is an interactive art installation that merges music, sound, code and technology. The String Theory Project installation will use a traditional stringed instrument, the harp, known for it's healing vibrations, to map and visualize sound waves.  The emphasis will be on connections to the body and mind.
+
+The project will investigate the transformative powers of harp sounds, gaining insights into sound energies.  Mathematics, music, vibration, visualization and mapping sound techniques will recast harp vibrations into something physical, something we can see.
+
+I am an artist, coder, mathematician and most recently, harpist.  When I first heard the harp instrument live, I was personally touched by the angelic sounds of the instrument, giving inspiration to the project and excitement to it's development.
 
 ## Link to Prototype
 NOTE: If your project lives online you can add one or more links here. Make sure you have a stable version of your project running before linking it.
