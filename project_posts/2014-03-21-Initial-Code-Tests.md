@@ -6,7 +6,8 @@ I have successfully been able to access the microphone and have confirmed that i
 
 I am using the following code, initially testing with Chrome.  Firefox currently work as well.
 <pre>
-<code>     window.addEventListener('load', onload, false);
+<code>
+           window.addEventListener('load', onload, false);
            document.addEventListener('webkitvisibilitychange',onVisibilityChange);
            window.AudioContext = window.AudioContext || window.webkitAudioContext;
 
