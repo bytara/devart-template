@@ -13,4 +13,4 @@ If using WebGL and the Web Audio API, the big limitation is with IOS and it's la
 
 In researching the Python and PyAudio option, I have come across a few examples of work, but nothing that has any benefit over Processing or WebGL.  In addition, the PyAudio library is still very much in beta mode.
 
-In conclusion, it appears that some compromise will need to be made.  I have determined that WebGL and the Audio API will give me a stable environment in which to work, enabling me to take advantage of modern web technologies, including HTML5, three.js and also to harness the power of Google Chrome.  In addition, in
+In conclusion, it appears that some compromise will need to be made.  I have determined that WebGL and the Audio API will give me a stable environment in which to work, enabling me to take advantage of modern web technologies, including HTML5, three.js and also to harness the power of Google Chrome.

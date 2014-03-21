@@ -11,7 +11,8 @@
         ],
         "toolkits": [
             "insert toolkits",
-            "three.js"
+            "three.js" ,
+            "jquery"
         ],
         "languages": [
             "insert languages" ,
