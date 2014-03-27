@@ -14,6 +14,9 @@ The technology behind the String Theory Project is a Google Chrome App, written 
 
 I am an artist, coder, mathematician and most recently, harpist.  When I first heard the harp instrument live, I was personally touched by the angelic sounds of the instrument, giving inspiration to the project and excitement to it's development.
 
+![quote](/project_images/harpquote_sm.jpg?raw=true "Harp Quote")
+
+
 ## Link to Prototype
 
 ## Example Code
