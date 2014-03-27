@@ -38,13 +38,6 @@ I am using the following code, initially testing with Chrome.  Firefox currently
                console.error(e);
            }
 
-           function onVisibilityChange(){
-               if(document.webkitHidden){
-                   source.stop(0);
-               }
-               else{
-                   source.start(0);
-               }
-           }
+
 </code>
 </pre>

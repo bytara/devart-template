@@ -10,6 +10,8 @@ The String Theory Project is an interactive art installation that merges music, 
 
 The project will investigate the transformative powers of harp sounds, gaining insights into sound energies.  Mathematics, music, vibration, visualization and mapping sound techniques will recast harp vibrations into something physical, something we can see.
 
+The technology behind the String Theory Project is a Google Chrome App, written with HTML, Javascript and CSS.  There may be additional Javascript libraries included in the project, which has not been determined to date.
+
 I am an artist, coder, mathematician and most recently, harpist.  When I first heard the harp instrument live, I was personally touched by the angelic sounds of the instrument, giving inspiration to the project and excitement to it's development.
 
 ## Link to Prototype
