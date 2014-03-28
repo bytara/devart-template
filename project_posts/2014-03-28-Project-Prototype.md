@@ -1,6 +1,6 @@
 I have been working through some code and putting the pieces of technology together. Great news, code tests have gone well and I have put up a v.1.0 Prototype.
 
-[String Theory Project Prototype Link](http://taramanuel.com/stringtheory/index.html "String Theory Project Prototype")
+[String Theory Project](http://taramanuel.com/stringtheory/index.html "String Theory Project")
 
 Now will come the fun part of working through some math and getting creative with audio analysis and visualizations.  I wanted to be certain that inputs, the web audio context analyzer and drawing outputs were all working well together before advancing to this next step.
 
